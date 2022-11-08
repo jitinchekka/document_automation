@@ -1,0 +1,6 @@
+roll,name,parentName,course,branch,subject1,maxMarkSub1,markObSub1,subject2,maxMarkSub2,markObSub2,subject3,maxMarkSub3,markObSub3,subject4,maxMarkSub4,markObSub4,subject5,maxMarkSub5,markObSub5,subject6,maxMarkSub6,markObSub6
+P111-22,Clark,Nalty,Master of Technology,CSE (AI),ENG,100,82,MATH,100,92,BME,100,52,BOE,100,63,PHY,100,58,EEE,200,174
+P111-23,Davis,Ochoa,Bachlour of Technology,IT,ENG,100,58,MATH,100,70,BME,100,76,DSA,100,32,PHY,100,36,EEE,200,170
+P111-27,Hills,Smith,Master of Computer Application,Master of Computer Application,ENG,100,87,MATH,100,90,DT,100,48,DSA,100,81,PHY,100,56,EEE,200,146
+P111-28,Irwin,Trott,Master of Computer Application,Master of Computer Application,ENG,100,62,MATH,100,72,DT,100,53,BOE,100,30,PHY,100,44,EVS,200,105
+P111-29,Jones,Usman,Bachlour of Computer Application,Bachlour of Computer Application,ENG,100,43,MATH,100,45,BME,100,89,DSA,100,81,PHY,100,68,EVS,200,91
